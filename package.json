@@ -3,12 +3,13 @@
   "version": "0.1.0",
   "type": "module",
   "dependencies": {
-    "@typespec/compiler": "^0.49.0-dev.11",
+    "@typespec/compiler": "^0.49.0-dev.16",
     "@typespec/openapi": "^0.49.0-dev.4",
-    "@typespec/openapi3": "^0.49.0-dev.10",
+    "@typespec/openapi3": "^0.49.0-dev.14",
     "@typespec/rest": "^0.49.0-dev.3",
-    "@typespec/http": "^0.49.0-dev.0",
-    "@typespec/versioning": "^0.49.0-dev.0"
+    "@typespec/http": "^0.49.0-dev.4",
+    "@typespec/versioning": "^0.49.0-dev.2",
+    "@azure-tools/typespec-python": "0.14.0"
   },
   "private": true
 }
